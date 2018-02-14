@@ -1,0 +1,9 @@
+name = PayPal SDK
+description = "Paypal SDK use with drupal"
+package = !CUSTOM
+core = 7.x
+
+version = "7.x-0"
+core = "7.x"
+project = "paypalsdk"
+datestamp = "1485820800"
